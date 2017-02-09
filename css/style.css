@@ -1,0 +1,21 @@
+.bg-roxo{background: #563d7c;}
+.right-nav{justify-content: flex-end;}
+.navbar-toggleable-md .navbar-nav .nav-link {padding-right: .7rem;}
+.topo {padding: 50px 0px; background: url("../img/bg-header.png"); min-height: 440px;}
+.divisor-white{width: 30px; margin: 25px auto; border-top: 3px solid white}
+.divisor-purple{width: 50px; margin: 25px auto; border-top: 3px solid #563d7c;}
+.text-color1{color:#563d7c}
+.card-subtitle{min-height: 35px}
+.circle-number{background: #3498db; width: 68px; height: 70px; line-height: 65px; color:white; border-radius: 50%;text-align: center; font-size: 24px; font-weight: bold; }
+.hora-aula{font-size: 20px; font-weight: 400;}
+.metodo{display: inline-block; border: 1px solid #5d5d5d; padding: 5px; border-radius: 5px; font-size: 15px; color: #5d5d5d; }
+#slider .carousel-indicators li {border: 2px solid #563d7c}
+#slider{padding-bottom: 60px;}
+#slider .carousel-indicators li.active{background:#563d7c; bottom: 20px;}
+.aspas{color: rgba(93, 93, 93, 0.33)}
+#slider p {min-height: 150px; padding-top: 20px;}
+.bg-gray{background: #eee;}
+#menu .nav-link{font-weight: bold}
+#menu .nav-link.active{border-bottom: 3px solid white}
+#videoModal .modal-body{padding: 0px;}
+

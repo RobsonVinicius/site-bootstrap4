@@ -1,4 +1,4 @@
-### Site criado utilizando Bootstrap 4 - alpha 5 | [Veja](http://github.com)
+### Site criado utilizando Bootstrap 4
 
 #### Ferramentas Utilizadas:
 

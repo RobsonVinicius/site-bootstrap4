@@ -2,10 +2,7 @@
 
 ### Versão Desktop
 
-<div align="center">
-![Bueprint Versão Desktop](https://gitlab.com/RobsonVinicius/jquerydomine/raw/master/header_jQuery-Curso-Description.png)
-<br>
+![Bueprint Versão Desktop](https://raw.githubusercontent.com/RobsonVinicius/site-bootstrap4/master/thumbnail.jpg)
 
-<hr>
 
-</div>
+

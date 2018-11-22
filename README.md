@@ -19,4 +19,4 @@
 #### Versão Tablet
 ***
 
-![Blueprint Versão Desktop](https://raw.githubusercontent.com/RobsonVinicius/site-bootstrap4/master/thumbnail.jpg)
+![Blueprint Versão Desktop](https://raw.githubusercontent.com/RobsonVinicius/site-bootstrap4/master/thumbnail-tablet.png)
